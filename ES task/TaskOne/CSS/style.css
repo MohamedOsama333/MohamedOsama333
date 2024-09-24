@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+
+section .butt .btn {
+    transition: 0.5s linear;
+    border: none;
+    outline: none;
+}
+
+
+section .butt .btn:hover {
+    background-color: red !important;
+    color: white !important;
+}
+
+
